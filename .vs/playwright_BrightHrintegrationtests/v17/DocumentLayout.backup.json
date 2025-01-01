@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_BrightHrFailure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|c:\\qaprojects_playwright_source\\playwright_brighthrfailure\\playwright_brighthrintegrationtests\\playwrightcode\\classrecordbrighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_BrightHrintegrationtests\\playwright_BrightHrintegrationtests.csproj|solutionrelative:playwright_brighthrintegrationtests\\playwrightcode\\classrecordbrighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassRecordBrightHR.cs",
+              "DocumentMoniker": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_BrightHrFailure\\playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "RelativeDocumentMoniker": "playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "ToolTip": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_BrightHrFailure\\playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs*",
+              "RelativeToolTip": "playwright_BrightHrintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T00:45:41.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

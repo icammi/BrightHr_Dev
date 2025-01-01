@@ -1,0 +1,47 @@
+{
+  "OptionMarketTemplateId": 1084,
+  "Name": "Test Fixture Name",
+  "Options": [
+    {
+      "OptionTemplateId": 1265,
+      "Name": "Free formed option 1",
+      "PriceOrNull": {
+        "Fractional": {
+          "Numerator": 25,
+          "Denominator": 100
+        },
+        "Decimal": "1.25"
+      },
+      "Parameters": [],
+      "FiftyFiftyMargin": 0.075,
+      "FiftyFiftyMarginForSerializationOnly": "0.075",
+      "SortOrder": 0
+    },
+    {
+      "OptionTemplateId": 1265,
+      "Name": "Free formed option 2",
+      "PriceOrNull": {
+        "Fractional": {
+          "Numerator": 425,
+          "Denominator": 100
+        },
+        "Decimal": "5.25"
+      },
+      "Parameters": [],
+      "FiftyFiftyMargin": 0.075,
+      "FiftyFiftyMarginForSerializationOnly": "0.075",
+      "SortOrder": 1
+    }
+  ],
+  "Parameters": [
+    {
+      "ParameterKey": "MarketType",
+      "IsEmpty": false,
+      "Value": "FreeFormed"
+    }
+  ],
+  "TotalMarketTemplateProbability": null,
+  "TotalMarketTemplateProbabilityForSerializationOnly": null,
+  "ProbabilityCoverage": null,
+  "OptionMarketSpecials": 0
+}

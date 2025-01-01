@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|c:\\qaprojects_playwright_source\\playwright_newintegrationtests\\playwright_newintegrationtests\\playwrightcode\\repeatableactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|solutionrelative:playwright_newintegrationtests\\playwrightcode\\repeatableactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|c:\\qaprojects_playwright_source\\playwright_newintegrationtests\\playwright_newintegrationtests\\playwrightcode\\classrecordbrighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|solutionrelative:playwright_newintegrationtests\\playwrightcode\\classrecordbrighthr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|c:\\qaprojects_playwright_source\\playwright_newintegrationtests\\playwright_newintegrationtests\\playwrightcode\\repeatablemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|solutionrelative:playwright_newintegrationtests\\playwrightcode\\repeatablemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|c:\\qaprojects_playwright_source\\playwright_newintegrationtests\\playwright_newintegrationtests\\playwrightcode\\repeatableplaywrightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A65650C0-7713-4546-B2A9-A5334F8CBEF5}|playwright_newintegrationtests\\playwright_newintegrationtests.csproj|solutionrelative:playwright_newintegrationtests\\playwrightcode\\repeatableplaywrightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepeatableActions.cs",
+              "DocumentMoniker": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "RelativeDocumentMoniker": "playwright_newintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "ToolTip": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "RelativeToolTip": "playwright_newintegrationtests\\PlaywrightCode\\RepeatableActions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:45:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepeatablePlaywrightMethods.cs",
+              "DocumentMoniker": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\RepeatablePlaywrightMethods.cs",
+              "RelativeDocumentMoniker": "playwright_newintegrationtests\\PlaywrightCode\\RepeatablePlaywrightMethods.cs",
+              "ToolTip": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\RepeatablePlaywrightMethods.cs",
+              "RelativeToolTip": "playwright_newintegrationtests\\PlaywrightCode\\RepeatablePlaywrightMethods.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAiwOMBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:29:16.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepeatableMethods.cs",
+              "DocumentMoniker": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\RepeatableMethods.cs",
+              "RelativeDocumentMoniker": "playwright_newintegrationtests\\PlaywrightCode\\RepeatableMethods.cs",
+              "ToolTip": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\RepeatableMethods.cs",
+              "RelativeToolTip": "playwright_newintegrationtests\\PlaywrightCode\\RepeatableMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:27:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassRecordBrightHR.cs",
+              "DocumentMoniker": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "RelativeDocumentMoniker": "playwright_newintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "ToolTip": "C:\\QAprojects_PLAYWRIGHT_Source\\playwright_newintegrationtests\\playwright_newintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "RelativeToolTip": "playwright_newintegrationtests\\PlaywrightCode\\ClassRecordBrightHR.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwFoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:26:56.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

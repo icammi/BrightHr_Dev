@@ -1,0 +1,11 @@
+{
+  "StartDate": "2023-06-26T15:12:00.573Z",
+  "StartDateUnixForSerializationOnly": 0,
+  "CutOffDate": "2023-07-26T15:12:00.573Z",
+  "CutOffDateUnixForSerializationOnly": 0,
+  "RegionId": 220,
+  "CompetitionId": 53,
+  "HomeParticipantId": 263790,
+  "AwayParticipantId": 263789,
+  "CountryId": 8
+}
